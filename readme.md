@@ -28,13 +28,13 @@
 
 ---
 
-<!-- ### 🌾 Contribution Grass (3D) -->
-<!-- <p align="center"> -->
-<!--   <img src="https://raw.githubusercontent.com/dzadafa/dzadafa/refs/heads/output/output.png" alt="Contribution Grass 3D" /> -->
-<!-- </p> -->
-<!---->
-<!-- --- -->
+### 🌾 Contribution Grass (3D) 
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/dzadafa/dzadafa/refs/heads/output/output.png" alt="Contribution Grass 3D" /> 
+</p>
+--- 
 
+<!--
 ### 🕹️ GitHub Breakout Game
 <p align="center">
   <picture>
@@ -49,8 +49,8 @@
     <img alt="Breakout Game" src="https://raw.githubusercontent.com/Dzadafa/Dzadafa/github-breakout/images/breakout-light.svg" />
   </picture>
 </p>
-
 ---
+-->
 
 ### 📫 Connect
 <p align="center">
