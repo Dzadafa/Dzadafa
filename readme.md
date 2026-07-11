@@ -20,14 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzadafa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzadafa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ### 🌾 Contribution Grass (3D) 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/dzadafa/dzadafa/refs/heads/output/output.png" alt="Contribution Grass 3D" /> 
